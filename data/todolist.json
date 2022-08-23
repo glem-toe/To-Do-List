@@ -1,0 +1,14 @@
+{"tasks": [
+    {
+        "name": "brush teeth",
+        "status": true
+    },
+    {
+        "name": "turn lights off",
+        "status": false
+    },
+    {
+        "name": "sleep",
+        "status": false
+    }
+]}
